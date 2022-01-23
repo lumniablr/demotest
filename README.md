@@ -36,7 +36,7 @@ CRM для кофейни: <a href="https://crm-mern-coffee-app.herokuapp.com" >
 ![Heroku](https://img.shields.io/badge/Heroku-111111?style=for-the-badge&logo=Heroku)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![Prettier](https://img.shields.io/badge/Prettier-111111?style=for-the-badge&logo=Prettier)
-
+![Firebase](https://img.shields.io/badge/firebase-111111?style=for-the-badge&logo=Firebase)
 
 ---
 
