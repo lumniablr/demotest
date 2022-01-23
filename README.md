@@ -16,7 +16,7 @@ CRM для кофейни: <a href="https://crm-mern-coffee-app.herokuapp.com" >
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/impavell)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/pavlun.ya/)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://api.whatsapp.com/send?phone=375298686212))
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((api.whatsapp.com/send/?phone=%2B375298686212&text&app_absent=0))
 
 ---
 
