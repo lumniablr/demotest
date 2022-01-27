@@ -1,11 +1,10 @@
 Привет!Меня зовут Паша 👋
 ### Мои проекты:
 
-Сайт для поиска ментора по программированию: <a href="https://mentor-mern-tutor-app.herokuapp.com" > Демо </a> || <a href="https://github.com/shamsaadov/tutor-app" > Код </a> 
+Сайт для поиска ментора по программированию:
 
 
-
-CRM для кофейни: <a href="https://crm-mern-coffee-app.herokuapp.com" > Демо </a> || <a href="https://github.com/shamsaadov/CRM-for-Coffee" > Код </a> 
+CRM для кофейни:
 
 
 
